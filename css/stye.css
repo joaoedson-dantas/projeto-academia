@@ -56,7 +56,7 @@ body {
 .header-bg {
   max-width: 100%;
   display: block;
-  background: url("./img/fundo.jpg");
+  background-image: url("./img/fundo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
