@@ -970,6 +970,8 @@ body {
   margin-top: 100px;
   background-color: #000;
   color: #9e9e9e;
+  display: grid;
+  justify-content: center;
 }
 
 .cx-f2 {
@@ -1027,6 +1029,7 @@ body {
   font-size: 16px;
   line-height: 36px;
   padding: 30px 10px;
+  text-align: center;
 }
 
 @media (max-width: 700px) {
